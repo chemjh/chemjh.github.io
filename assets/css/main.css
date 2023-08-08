@@ -3076,19 +3076,19 @@ input, select, textarea {
 		}
 
 		.spotlights > section:nth-child(5) {
-			background-color: rgba(0, 0, 0, 0.05);
+			background-color: rgba(0, 0, 0, 0.00);
 		}
 
 		.spotlights > section:nth-child(6) {
-			background-color: rgba(0, 0, 0, 0.1);
+			background-color: rgba(0, 0, 0, 0.05);
 		}
 
 		.spotlights > section:nth-child(7) {
-			background-color: rgba(0, 0, 0, 0.15);
+			background-color: rgba(0, 0, 0, 0.10);
 		}
 
 		.spotlights > section:nth-child(8) {
-			background-color: rgba(0, 0, 0, 0.05);
+			background-color: rgba(0, 0, 0, 0.15);
 		}
 
 		.spotlights > section.inactive > .image:before,
